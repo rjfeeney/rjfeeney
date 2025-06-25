@@ -5,7 +5,7 @@ I've always loved learning what was happening behind the scenes to make things w
 I'm currently on the look out for a role in backend development, ideally in Go or Python. I am eager to apply what I've learned towards solving real-world issues, and would love the chance to work on a team with more experienced coders who I can continue to learn from!
 
 A few non-coding things about me:
-- I have a BA in Communication and a MS in Business and Analytics.
+- I have a BA in Communications and a MS in Business and Analytics.
 - I sing and play bass guitar. If you're curious, feel free to check out the two original bands I currently play with: [Hyperfix](https://open.spotify.com/artist/5KYfM00ujFHk9wd19Stoyw?si=EsFI2R1bSR-V5mm5AcL0qg) and [Layzi](https://open.spotify.com/artist/1Osd22FCebAqWNl7q2sazx?si=Hzm7dCUkT6u5cJ8dwCxgfA)
 - I co-founded a Wedding Band/Entertainment Agency with one of my closest friends. Together we have performed hundreds of weddings and events.
 
