@@ -10,6 +10,10 @@ I'm currently on the lookout for a role in backend development, ideally in Go or
 - I co-founded a Wedding Band/Entertainment Agency with one of my closest friends. Together we have performed hundreds of weddings and events.
 
 If you’d like to connect or discuss opportunities, feel free to reach out to me at rileyfeeney7 [at] gmail [dot] com!
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/f828068a-c954-489d-be79-e9f562b35411/thumbnail" >
+</p>
 <!--
 **rjfeeney/rjfeeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
