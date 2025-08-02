@@ -1,6 +1,6 @@
 ## Hi, I'm Riley Feeney 👋
 
-I've always loved learning what was happening behind the scenes to make things work. I dove into backend development to expand that curiosity into the realm of software! I am most comfortable writing in Go and Python (check out my [Setlist Builder](https://github.com/rjfeeney/setlist_builder) for my favorite project in Go to date!). I also continue to dabble in JavaScript and TypeScript. You can browse my public repos to see hands-on coding projects from my studies at Boot.dev.
+I've always loved learning what was happening behind the scenes to make things work. I dove into software engineering to expand that curiosity into the realm of software! I am most comfortable writing in Go and Python (check out my [Setlist Builder](https://github.com/rjfeeney/setlist_builder) for my favorite project in Go to date!). I also continue to dabble in C# and JavaScript/TypeScript. You can browse my public repos to see hands-on coding projects from my studies at Boot.dev.
 
 I'm currently on the lookout for a role in software engineering. I am eager to apply what I've learned towards solving real-world issues, and would love the chance to work on a team with more experienced coders who I can continue to learn from!
 
