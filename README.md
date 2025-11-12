@@ -1,8 +1,14 @@
 ## Hi, I'm Riley Feeney 👋
 
-I've always loved learning what was happening behind the scenes to make things work. I dove into software engineering to expand that curiosity into the realm of software! I am most comfortable writing in Go and Python (check out my [Setlist Builder](https://github.com/rjfeeney/setlist_builder) for my favorite project in Go to date!). I also continue to dabble in C# and JavaScript/TypeScript. You can browse my public repos to see hands-on coding projects from my studies at Boot.dev.
+Hi, I'm Riley Feeney 👋
 
-I'm currently on the lookout for a role in software engineering. I am eager to apply what I've learned towards solving real-world issues, and would love the chance to work on a team with more experienced coders who I can continue to learn from!
+I’ve always loved exploring what happens behind the scenes to make systems work, which led me to dive into software engineering. I enjoy building **reliable backend systems**, designing **APIs**, and implementing **automated testing** to ensure software works as intended.
+
+I have hands-on experience in **Go, Python, TypeScript, Java, and C#**, and I have built **Postman automated tests** (over 276 tests for my website portfolio backend project) as well as **JUnit 5 test suites** for Java applications. My projects showcase backend development, data validation, and QA best practices.
+
+I’m actively seeking a role as a **Software Engineer or QA Engineer**, where I can contribute to high-quality software while continuing to learn and grow on a team of experienced engineers.
+
+Feel free to browse my [repositories](https://github.com/rjfeeney) to see my projects, automated testing work, and examples of backend systems I’ve built.
 
 ### A few non-coding things about me:
 - I have a BA in Communications and an MS in Business and Analytics.
